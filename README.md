@@ -31,14 +31,25 @@
 > **STATUS: EVOLVING DEVELOPER**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+
+  <a href="https://github.com/RyuMitsuky/Proyecto_Python_VelandiaJuan" target="_blank">
+    <button class="cyberpunk2077 yellow">Python_</button>
+  </a>
+
+
+  <a href="https://github.com/RyuMitsuky/PROYECTO-FILTRO_VelandiaJuan_CarrilloDavid" target="_blank">
+    <button class="cyberpunk2077 green">HTML + CSS_</button>
+  </a>
+
+
+  <a href="https://github.com/GustavoAdolfoNavarroPacheco/PROYECTO-FILTRO_NavarroGustavo_VelandiaJuan" target="_blank">
+    <button class="cyberpunk2077 blue">JavaScript_</button>
+  </a>
+
 </p>
 
+---
 ---
 
 ## 🔮 GitHub Stats
