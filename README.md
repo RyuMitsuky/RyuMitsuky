@@ -18,15 +18,21 @@
 
 ---
 
-## 💾 Tech Status
-
-> **SYSTEM LOG: LEARNING PROGRESS**  
-> 🐍 Python → Nivel básico  
-> 🎨 HTML / CSS → Nivel Intermedio
-> ⚙️ GitHub → Nivel avanzado  
-> 🕹️ JavaScript → Nivel básico  
-> 🧬 MongoDB → Nivel Intermedio  
-> ⚡ Node.js → En progreso  
+<table>
+  <tr>
+    <td valign="top" width="120">
+      <img src="./assets/cat.gif" alt="Cat GIF" width="100">
+    </td>
+    <td valign="top">
+      
+**💾 Tech Status**  
+**SYSTEM LOG: LEARNING PROGRESS**  
+🐍 Python → Nivel básico  
+🎨 HTML / CSS → Nivel Intermedio  
+⚙️ GitHub → Nivel avanzado  
+🕹️ JavaScript → Nivel básico  
+🧬 MongoDB → Nivel Intermedio  
+⚡ Node.js → En progreso
 
 > **STATUS: EVOLVING DEVELOPER**
 
