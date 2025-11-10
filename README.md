@@ -20,10 +20,10 @@
 
 <table>
   <tr>
-    <td width="110" align="center">
-      <img src="./assets/cat.gif" alt="Cat GIF" width="80">
+    <td width="80" align="center" valign="middle">
+      <img src="./assets/cat.gif" alt="Cat GIF" width="70">
     </td>
-    <td valign="middle">
+    <td align="left" valign="middle">
       <b>💾 Tech Status</b><br>
       <b>SYSTEM LOG: LEARNING PROGRESS</b><br>
       🐍 Python → Nivel básico<br>
