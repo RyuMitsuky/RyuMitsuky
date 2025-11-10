@@ -30,22 +30,13 @@
 
 > **STATUS: EVOLVING DEVELOPER**
 
-<p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/>
-  </a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ff00ff?style=for-the-badge&logo=python&logoColor=00ffff"/>
+  <img src="https://img.shields.io/badge/HTML5-ff0055?style=for-the-badge&logo=html5&logoColor=00ffff"/>
+  <img src="https://img.shields.io/badge/CSS3-00ffff?style=for-the-badge&logo=css3&logoColor=ff00ff"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/MongoDB-00ff88?style=for-the-badge&logo=mongodb&logoColor=111"/>
+  <img src="https://img.shields.io/badge/Node.js-ff0088?style=for-the-badge&logo=node.js&logoColor=00ffff"/>
 </p>
 
 ---
@@ -72,14 +63,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ff00ff?style=for-the-badge&logo=python&logoColor=00ffff"/>
-  <img src="https://img.shields.io/badge/HTML5-ff0055?style=for-the-badge&logo=html5&logoColor=00ffff"/>
-  <img src="https://img.shields.io/badge/CSS3-00ffff?style=for-the-badge&logo=css3&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/MongoDB-00ff88?style=for-the-badge&logo=mongodb&logoColor=111"/>
-  <img src="https://img.shields.io/badge/Node.js-ff0088?style=for-the-badge&logo=node.js&logoColor=00ffff"/>
-</p>
 
 
 <p align="center">
