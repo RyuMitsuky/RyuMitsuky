@@ -1,6 +1,6 @@
 <!-- Juan Esteban Velandia Beltrán | Cyberpunk 2077 Themed GitHub Profile -->
 <p align="center">
-  <img src="./assets/Image2.png" alt="Cyberpunk Banner" width="100%"/>
+  <img src="./assets/cyberpunk.pixelart.Akito_One.gif" alt="Cyberpunk Banner" width="100%"/>
 </p>
 
 <h1 align="center">⚡ Juan Esteban Velandia Beltrán ⚡</h1>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/Rb8mGJ8/cyberpunk-banner-juan-velandia.png" alt="Cyberpunk Banner" width="100%"/>
+  <img src="./assets/cyberpunk.pixelart.Akito_One.gif"alt="Cyberpunk Banner" width="100%"/>
 </p>
 
 
