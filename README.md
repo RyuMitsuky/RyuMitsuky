@@ -22,31 +22,30 @@
 
 > **SYSTEM LOG: LEARNING PROGRESS**  
 > 🐍 Python → Nivel básico  
-> 🎨 HTML / CSS → Nivel bueno  
+> 🎨 HTML / CSS → Nivel Intermedio
 > ⚙️ GitHub → Nivel avanzado  
 > 🕹️ JavaScript → Nivel básico  
-> 🧬 MongoDB → Nivel bueno  
+> 🧬 MongoDB → Nivel Intermedio  
 > ⚡ Node.js → En progreso  
 
 > **STATUS: EVOLVING DEVELOPER**
 
-<p align="center">
-
-
-  <a href="https://github.com/RyuMitsuky/Proyecto_Python_VelandiaJuan" target="_blank">
-    <button class="cyberpunk2077 yellow">Python_</button>
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" />
   </a>
-
-
-  <a href="https://github.com/RyuMitsuky/PROYECTO-FILTRO_VelandiaJuan_CarrilloDavid" target="_blank">
-    <button class="cyberpunk2077 green">HTML + CSS_</button>
+  &nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/>
   </a>
-
-
-  <a href="https://github.com/GustavoAdolfoNavarroPacheco/PROYECTO-FILTRO_NavarroGustavo_VelandiaJuan" target="_blank">
-    <button class="cyberpunk2077 blue">JavaScript_</button>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30"/>
   </a>
-
+  &nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
+  </a>
 </p>
 
 ---
@@ -61,21 +60,7 @@
 
 ---
 
-## 🌐 Contacto
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-esteban-velandia-7b98a12a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:juanbeltran.87.jfk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffea00?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff0050?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <sub>“El futuro pertenece a quienes pueden imaginarlo en código.”</sub>
