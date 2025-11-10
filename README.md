@@ -53,14 +53,14 @@
 ## 🌐 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-esteban-velandia-7b98a12a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:juanbeltran.87.jfk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffea00?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/EMAIL-ff0050?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff0050?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/juan-esteban-velandia-7b98a12a2/">
+    <img src="https://img.shields.io/badge/LINKEDIN-00ffff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d0d0d" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/gwannon/Cyberpunk-2077-theme-css" target="_blank">
+    <img src="https://img.shields.io/badge/Cyberpunk%20Theme-FFD300?style=for-the-badge&logo=github&logoColor=black&labelColor=ff0050" alt="Cyberpunk Theme" />
   </a>
 </p>
 
