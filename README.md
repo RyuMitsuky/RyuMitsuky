@@ -20,18 +20,20 @@
 
 <table>
   <tr>
+  <tr>
     <td width="80" align="center" valign="middle">
       <img src="./assets/cat.gif" alt="Cat GIF" width="70">
     </td>
     <td align="left" valign="middle">
-      <b>💾 Tech Status</b><br>
-      <b>SYSTEM LOG: LEARNING PROGRESS</b><br>
-      🐍 Python → Nivel básico<br>
-      🎨 HTML / CSS → Nivel Intermedio<br>
-      ⚙️ GitHub → Nivel avanzado<br>
-      🕹️ JavaScript → Nivel básico<br>
-      🧬 MongoDB → Nivel Intermedio<br>
-      ⚡ Node.js → En progreso
+
+**💾 Tech Status**  
+**SYSTEM LOG: LEARNING PROGRESS**  
+🐍 Python → Nivel básico  
+🎨 HTML / CSS → Nivel Intermedio  
+⚙️ GitHub → Nivel avanzado  
+🕹️ JavaScript → Nivel básico  
+🧬 MongoDB → Nivel Intermedio  
+⚡ Node.js → En progreso
 
 > **STATUS: EVOLVING DEVELOPER**
 
@@ -64,15 +66,10 @@
 
 
 <p align="center">
-  <img src="./assets/cyberpunk.pixelart.Akito_One.gif"alt="Cyberpunk Banner" width="100%"/>
+  <img src="./assets/Cyber2.gif"alt="Cyberpunk Banner" width="100%"/>
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://i.ibb.co/vmZVYm7/cyberpunk-city-gif.gif" width="800" alt="Night City"/>
-</p>
 <p align="center">
   <sub>“El futuro pertenece a quienes pueden imaginarlo en código.”</sub>
 </p>
