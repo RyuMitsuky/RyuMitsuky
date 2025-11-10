@@ -20,19 +20,18 @@
 
 <table>
   <tr>
-    <td valign="top" width="120">
-      <img src="./assets/cat.gif" alt="Cat GIF" width="100">
+    <td width="110" align="center">
+      <img src="./assets/cat.gif" alt="Cat GIF" width="80">
     </td>
-    <td valign="top">
-      
-**💾 Tech Status**  
-**SYSTEM LOG: LEARNING PROGRESS**  
-🐍 Python → Nivel básico  
-🎨 HTML / CSS → Nivel Intermedio  
-⚙️ GitHub → Nivel avanzado  
-🕹️ JavaScript → Nivel básico  
-🧬 MongoDB → Nivel Intermedio  
-⚡ Node.js → En progreso
+    <td valign="middle">
+      <b>💾 Tech Status</b><br>
+      <b>SYSTEM LOG: LEARNING PROGRESS</b><br>
+      🐍 Python → Nivel básico<br>
+      🎨 HTML / CSS → Nivel Intermedio<br>
+      ⚙️ GitHub → Nivel avanzado<br>
+      🕹️ JavaScript → Nivel básico<br>
+      🧬 MongoDB → Nivel Intermedio<br>
+      ⚡ Node.js → En progreso
 
 > **STATUS: EVOLVING DEVELOPER**
 
