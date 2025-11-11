@@ -25,6 +25,8 @@
       <img src="./assets/cat.gif" alt="Cat GIF" width="70">
     </td>
     <td align="left" valign="middle">
+<br>
+
 
 **💾 Tech Status**  
 **SYSTEM LOG: LEARNING PROGRESS**  
@@ -33,21 +35,8 @@
 ⚙️ GitHub → Nivel avanzado  
 🕹️ JavaScript → Nivel básico  
 🧬 MongoDB → Nivel Intermedio  
-⚡ Node.js → En progreso
 
-> **STATUS: EVOLVING DEVELOPER**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ff00ff?style=for-the-badge&logo=python&logoColor=00ffff"/>
-  <img src="https://img.shields.io/badge/HTML5-ff0055?style=for-the-badge&logo=html5&logoColor=00ffff"/>
-  <img src="https://img.shields.io/badge/CSS3-00ffff?style=for-the-badge&logo=css3&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/MongoDB-00ff88?style=for-the-badge&logo=mongodb&logoColor=111"/>
-  <img src="https://img.shields.io/badge/Node.js-ff0088?style=for-the-badge&logo=node.js&logoColor=00ffff"/>
-</p>
-
----
----
+[![My Skills](https://skillicons.dev/icons?i=py,github,html,css,js,mysql,mongodb,nodejs)](https://skillicons.dev)
 
 ## 🔮 GitHub Stats
 
@@ -58,10 +47,14 @@
 
 ---
 
+## Actualmente Aprendiendo
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
 
 
 <p align="center">
-  <sub>“El futuro pertenece a quienes pueden imaginarlo en código.”</sub>
+  <sub>“El futuro pertenece a quienes pueden imaginarlo en código..”</sub>
 </p>
 
 
