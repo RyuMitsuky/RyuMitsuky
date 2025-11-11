@@ -38,16 +38,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,github,html,css,js,mysql,mongodb)](https://skillicons.dev)
 
+## Actualmente Aprendiendo
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+
+
 ## 🔮 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RyuMitsuky&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuMitsuky&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
-## Actualmente Aprendiendo
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 
 ---
