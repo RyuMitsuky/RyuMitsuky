@@ -36,7 +36,7 @@
 🕹️ JavaScript → Nivel básico  
 🧬 MongoDB → Nivel Intermedio  
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,html,css,js,mysql,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,html,css,js,mysql,mongodb)](https://skillicons.dev)
 
 ## 🔮 GitHub Stats
 
@@ -45,11 +45,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuMitsuky&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
-
 ## Actualmente Aprendiendo
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+
+---
 
 
 
