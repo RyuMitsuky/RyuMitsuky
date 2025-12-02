@@ -40,7 +40,7 @@
 
 ## Actualmente Aprendiendo
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=MySQL)](https://skillicons.dev)
 
 
 
