@@ -12,7 +12,7 @@
   <a href="mailto:juanbeltran.87.jfk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/RyuMitsuky/Portafolio" target="_blank">
+  <a href="https://ryumitsuky.github.io/Portafolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111318?style=for-the-badge&logo=github&logoColor=00D4FF"/>
   </a>
 </p>
